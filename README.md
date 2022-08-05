@@ -1,6 +1,6 @@
 # auto-line
 
-## commands: 
+### commands: 
 
 1. add-channel
 2. remove-channel
