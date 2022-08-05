@@ -21,3 +21,6 @@ scroll down and chose `bot` option then scroll down more and choose the bot perm
 
 
 any problim go to [Ra3d's Studio](https://discord.gg/mHmPKHqXCt)
+
+# Made By 
+`Mart#0001`
